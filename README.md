@@ -15,3 +15,5 @@ I made the Asteroids. I used the Unity Editor and C# for coding. I want to expla
 -GameManager
 
 -UI
+
+To play: https://sharemygame.com/@Poki/asteroids
